@@ -20,3 +20,5 @@ Segment has more sales? (Consumer has more sales than other.)
 Task completed during Data Science & Analytics Internship @ The Sparks Foundation
 
 By- Soumy Dubey
+
+Links:- https://github.com/SoumyDubey/Exploratory-Data-Analysis---Retail
